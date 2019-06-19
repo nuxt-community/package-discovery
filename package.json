@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/package-discovery",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Package discovery automatically",
   "license": "MIT",
   "contributors": [
